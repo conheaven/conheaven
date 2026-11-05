@@ -45,16 +45,9 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=conheaven&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conheaven&layout=compact&theme=tokyonight&hide_border=true" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=conheaven&theme=tokyonight&hide_border=true" /></td>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=conheaven&theme=onedark&no-frame=true&column=4" /></td>
-  </tr>
-</table>
+<div align="center">
+<img src="/github-metrics.svg" alt="GitHub Stats" width="100%" />
+</div>
 
 ## 🤝 交流
 
