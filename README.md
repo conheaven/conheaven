@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%2C%20I%27m%20conheaven&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=i%20am%20who%20i%20am&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%2C%20I%27m%20conheaven&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=%E4%B8%8D%E8%BE%9E%E8%BE%9B%E5%8A%B3%EF%BC%8C%E5%B0%BD%E5%96%84%E5%B0%BD%E7%BE%8E&descAlignY=65&descAlign=50)
 
 <a href="https://github.com/conheaven">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=AI+Safety+%7C+Vision-Language+Models;Reading+security+papers+so+you+don%27t+have+to;Turning+noisy+news+into+useful+signal" alt="typing animation" />
