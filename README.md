@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="/github-metrics.svg" alt="GitHub Stats" width="400" />
+<img src="/github-metrics.svg" alt="GitHub Stats" width="90%" />
 </div>
 
 ## 🤝 交流
